@@ -1,3 +1,4 @@
 # Sort-Algorithms
 Bubble Sort
-https://wikipedia.org/wiki/Bubble_sort
+
+https://en.wikipedia.org/wiki/Bubble_sort#/media/File:Bubble-sort-example-300px.gif
