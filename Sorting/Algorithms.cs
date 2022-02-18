@@ -30,7 +30,9 @@ namespace Sorting
             }
 
             for (int k = 0; k < arr.Length; k++)
+            {
                 Console.Write(" " + arr[k]);
+            }
         }
 
         /// <summary>
@@ -63,7 +65,7 @@ namespace Sorting
                 }
             }
 
-            for(int k = 0; k < arr.GetLength(0); k++)
+            for (int k = 0; k < arr.GetLength(0); k++)
             {
                 Console.WriteLine(arr[k, 0] + " " + arr[k, 1] + " " + arr[k, 2]);
             }
