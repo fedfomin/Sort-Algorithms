@@ -6,7 +6,9 @@ namespace Sorting
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[] nums = new int[5] { 4, 91, 82, 5, 21 };
+
+            Algorithms.BubbleSort(nums);
         }
     }
 }
